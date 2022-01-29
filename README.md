@@ -27,3 +27,7 @@ In this application data is stored in a MongoDB Cluster that helped me build and
 3. Created a bookModel Schema to define what the entries to be stored.
 4. Created api methods to CRUD operations in `server/index.js`
 5. Building the frontend, created components, created useStates and links to route correct endpoints.
+
+### Screenshot of the app
+
+![Home Page of the App](home.png)
