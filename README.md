@@ -33,3 +33,13 @@ In this application data is stored in a MongoDB Cluster that helped me build and
 ![Home Page of the App](home.png)
 
 6. Referred a few documentations and tutorials.
+
+### Want to install and run in your local machine?
+
+1. Clone this repo `git clone https://github.com/daspacebar/wt-book-crud-app.git`
+2. Open terminal and go to the project folder: `cd wt-book-crud-app/client` and then open another terminal and do `cd wt-book-crud-app/server`
+
+IMPORTANT: Make sure you have created a MongoDB cluster and copied the cluster URI and pasted in the `.env` file.
+
+3. In the client terminal run `yarn install` and `yarn start` to start the client.
+4. In the server terminal run `yarn run devStart` to start the server.
