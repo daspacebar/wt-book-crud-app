@@ -31,3 +31,5 @@ In this application data is stored in a MongoDB Cluster that helped me build and
 ### Screenshot of the app
 
 ![Home Page of the App](home.png)
+
+6. Referred a few documentations and tutorials.
